@@ -13,3 +13,5 @@ train.ipynb: the main codes to train our NN.
 predict_funcs.py: functions in this file are necessary for making a predict.
 
 predict.ipynb: the main codes to transform raw EEG data to results and to control the mechanical arm.
+
+STC_communication_codes.zip: these are the codes about the serial communication.
